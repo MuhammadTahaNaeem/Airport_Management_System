@@ -42,9 +42,9 @@ const Splash = () => {
         </div>
 
         {/* Progress bar */}
-        <div className="mt-8 w-64 h-1 bg-white/20 rounded-full overflow-hidden">
+        {/* <div className="mt-8 w-64 h-1 bg-white/20 rounded-full overflow-hidden">
           <div className="h-full bg-gradient-to-r from-white via-blue-200 to-white rounded-full animate-pulse"></div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
